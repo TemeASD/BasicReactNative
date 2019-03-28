@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ReactNativeRedux_test",
+    "description": "Test project which is built as a learning experience.",
+    "slug": "RNR_test",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["android"],
+    "version": "6.6.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.temeasd.rnrwebsk2"
+    }
+  }
+}

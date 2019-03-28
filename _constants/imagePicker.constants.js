@@ -1,0 +1,4 @@
+export const imageConstants = {
+    ADDONE_SUCCESS: 'IMAGES_ADDONE_SUCCESS',
+    ADDONE_FAILURE: 'IMAGES_ADDONE_FAILURE',
+};
